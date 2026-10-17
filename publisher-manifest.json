@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e070ca7f4001ea0e4de425b7",
+  "owner": "afhjsjkqr",
+  "repo": "page-1eb25bcac47acb35fef91cb4",
+  "title": "CC加速器(CCcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1eb25bcac47acb35fef91cb4",
+      "a": "CC加速器(CCcloud)",
+      "b": "",
+      "entity": "CC加速器(CCcloud)",
+      "brand": "CC加速器(CCcloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "753d0569fcaeee505449c9815a8669fc4d9135d5235bf7fd48eb303a17f0499d",
+      "content": {
+        "keyword1": "CC加速器(CCcloud)",
+        "keyword2": "",
+        "primary_entity": "CC加速器(CCcloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "CC加速器(CCcloud)提供网络加速服务。以下为订阅方案、使用说明及常见问题解答。",
+          "AI_DESCRIPTION": "CC加速器(CCcloud)提供网络加速服务。以下为订阅方案、使用说明及常见问题解答。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--deep-sea: #0a1f3d;--deep-sea-light: #102a4c;--amber: #d4961a;--amber-light: #f0b840;--ivory: #f4f1e8;--text-mute: #8a9bb0;--border: #1c3556}\n* {margin: 0;padding: 0;box-sizing: border-box}\nbody {background: var(--deep-sea);color: var(--ivory);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height: 1.8;font-size: 16px}\n.nav-bar {position: sticky;top: 0;z-index: 100;background: rgba(10, 31, 61, 0.95);border-bottom: 1px solid var(--border);backdrop-filter: blur(8px)}\n.nav-bar ul {list-style: none;display: flex;gap: 32px;padding: 14px 24px;max-width: 1200px;margin: 0 auto;font-size: 14px}\n.nav-bar a {color: var(--text-mute);text-decoration: none;transition: color 0.2s}\n.nav-bar a:hover {color: var(--amber-light)}\nmain {max-width: 780px;margin: 0 auto;padding: 0 24px}\n.hero {padding: 80px 0 60px;border-bottom: 1px solid var(--border)}\n.hero-meta {font-size: 12px;color: var(--text-mute);letter-spacing: 0.15em;text-transform: uppercase;margin-bottom: 24px}\nh1 {font-size: 36px;font-weight: 700;line-height: 1.3;margin-bottom: 32px;color: var(--ivory)}\n.hero-body p {margin-bottom: 20px;color: #c4c9d4;font-size: 17px}\n.hero-body em {color: var(--amber-light);font-style: normal;border-bottom: 1px solid var(--amber);padding-bottom: 1px}\nh2 {font-size: 24px;font-weight: 600;margin: 64px 0 8px;color: var(--amber-light)}\nh2::before {content: \"\";display: block;width: 32px;height: 2px;background: var(--amber);margin-bottom: 16px}\nh3 {font-size: 18px;font-weight: 600;margin: 32px 0 12px;color: var(--ivory)}\nsection {padding: 24px 0}\n.intro-text {color: #b0b8c8;margin-bottom: 40px;font-size: 15px}\n.plans {display: flex;flex-direction: column;gap: 0}\n.plan {padding: 40px 0;border-bottom: 1px solid var(--border)}\n.plan:first-child {padding-top: 20px}\n.plan:last-child {border-bottom: none;padding-bottom: 60px}\n.plan-tier {font-size: 12px;color: var(--text-mute);letter-spacing: 0.12em;margin-bottom: 8px}\n.plan-name {font-size: 22px;font-weight: 600;margin-bottom: 6px}\n.plan-featured {display: inline-block;font-size: 11px;color: var(--deep-sea);background: var(--amber);padding: 2px 10px;margin-left: 8px;vertical-align: middle;letter-spacing: 0.05em}\n.plan-price {font-size: 32px;color: var(--amber-light);font-weight: 700;margin: 16px 0}\n.plan-price-note {font-size: 13px;color: var(--text-mute);margin-bottom: 24px}\n.plan-features {list-style: none;padding: 0}\n.plan-features li {padding: 8px 0;color: #c4c9d4;font-size: 15px;border-bottom: 1px dashed rgba(28, 53, 86, 0.5)}\n.plan-features li:last-child {border-bottom: none}\n.plan-features li::before {content: \"—\";color: var(--amber);margin-right: 12px}\n.plans-offset-1 {margin-left: 40px}\n.plans-offset-2 {margin-left: 80px}\n.usage-list {list-style: none;counter-reset: step}\n.usage-list li {counter-increment: step;padding: 20px 0 20px 56px;position: relative;border-bottom: 1px solid var(--border)}\n.usage-list li::before {content: counter(step, decimal-leading-zero);position: absolute;left: 0;top: 20px;color: var(--amber);font-size: 18px;font-weight: 700;letter-spacing: 0.05em}\n.faq-group {margin-bottom: 48px}\n.faq-group h3 {color: var(--amber-light);font-size: 16px;border-bottom: 1px solid var(--border);padding-bottom: 12px;margin-bottom: 16px}\n.faq-item {padding: 16px 0;border-bottom: 1px dashed rgba(28, 53, 86, 0.4)}\n.faq-item:last-child {border-bottom: none}\n.faq-q {font-weight: 600;color: var(--ivory);margin-bottom: 8px;font-size: 15px}\n.faq-q::before {content: \"Q \";color: var(--amber)}\n.faq-a {color: #b0b8c8;font-size: 15px;padding-left: 20px}\n.faq-a::before {content: \"A \";color: var(--text-mute)}\n.clients {padding: 40px 0}\n.client-list {list-style: none}\n.client-item {padding: 20px 0;border-bottom: 1px solid var(--border)}\n.client-item:last-child {border-bottom: none}\n.client-name {font-weight: 600;color: var(--ivory);margin-bottom: 4px}\n.client-desc {color: var(--text-mute);font-size: 14px}\n.client-link {color: var(--amber-light);text-decoration: none;font-size: 14px}\nfooter {border-top: 1px solid var(--border);padding: 40px 24px;text-align: center;color: var(--text-mute);font-size: 13px;max-width: 780px;margin: 0 auto}\n@media (max-width: 600px) {\n  .nav-bar ul {gap: 16px;padding: 12px 16px;overflow-x: auto}\n  h1 {font-size: 28px}\n  .plans-offset-1, .plans-offset-2 {margin-left: 0}\n  main {padding: 0 16px}\n}\n</style><nav class=\"nav-bar\">\n<ul>\n<li><a href=\"#about\">关于</a></li>\n<li><a href=\"#plans\">订阅方案</a></li>\n<li><a href=\"#usage\">使用说明</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n<main>\n<section class=\"hero\" id=\"about\">\n<div class=\"hero-meta\">CCcloud · 技术说明文档 · 2024</div>\n<h1>CC加速器(CCcloud)</h1>\n<div class=\"hero-body\">\n<p>CC加速器（产品标识 CCcloud）是一项面向个人及团队用户的网络加速服务。本页面以说明书形式记录其订阅层级、接入步骤及常见技术问题，供订阅者查阅。</p>\n<p>服务采用<em>流量配额制</em>，按月计量。不同订阅层级对应不同的流量上限、设备并发数及节点资源池。所有线路均以拥塞控制算法调度，不承诺固定带宽峰值。</p>\n<p>以下内容适用于已完成订阅的账户。如尚未订阅，请先阅读\"订阅方案\"章节，确认层级与价格后再行操作。</p>\n</div>\n</section>\n<section id=\"plans\">\n<h2>订阅方案</h2>\n<p class=\"intro-text\">三个层级按流量配额与设备数递进排列。年付方案在对应月价基础上折算，无额外折扣叠加。</p>\n<div class=\"plans\">\n<article class=\"plan plans-offset-0\">\n<div class=\"plan-tier\">层级 01 / 基础</div>\n<h3 class=\"plan-name\">基础版</h3>\n<div class=\"plan-price\">¥15/月</div>\n<div class=\"plan-price-note\">按年付仅需 ¥150/年</div>\n<ul class=\"plan-features\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan plans-offset-1\">\n<div class=\"plan-tier\">层级 02 / 推荐</div>\n<h3 class=\"plan-name\">旗舰版<span class=\"plan-featured\">推荐</span></h3>\n<div class=\"plan-price\">¥35/月</div>\n<div class=\"plan-price-note\">按年付仅需 ¥350/年</div>\n<ul class=\"plan-features\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan plans-offset-2\">\n<div class=\"plan-tier\">层级 03 / 企业</div>\n<h3 class=\"plan-name\">团队版</h3>\n<div class=\"plan-price\">¥85/月</div>\n<div class=\"plan-price-note\">按年付仅需 ¥850/年</div>\n<ul class=\"plan-features\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</section>\n<section id=\"usage\">\n<h2>使用说明</h2>\n<p class=\"intro-text\">从订阅到首次连接，完整流程如下。每一步均需完成后序步骤方可生效。</p>\n<ol class=\"usage-list\">\n<li>\n<strong>选择订阅层级</strong><br>\n参照上方\"订阅方案\"，根据设备数量与流量需求选择对应层级。基础版适用于单人日常浏览，旗舰版叠加游戏加速与流媒体解锁，团队版面向多成员协作场景。\n</li>\n<li>\n<strong>完成账户注册与订阅</strong><br>\n使用有效邮箱注册 CCcloud 账户。登录后在控制台选择层级并完成付款。付款成功后，账户流量配额即时生效，有效期自付款时刻起按自然月计算。\n</li>\n<li>\n<strong>下载对应平台客户端</strong><br>\n在\"客户端\"章节查找对应操作系统的客户端。Windows 与 macOS 客户端功能完整；移动端客户端支持基础加速与节点切换，不支持自定义路由。\n</li>\n<li>\n<strong>导入订阅链接</strong><br>\n在控制台\"订阅管理\"页面复制个人订阅链接。打开客户端，在设置中选择\"导入订阅链接\"，粘贴并确认。客户端将自动拉取节点列表与流量余量。\n</li>\n<li>\n<strong>选择节点并连接</strong><br>\n节点列表按地区分组。选择目标地区节点后点击连接。连接成功后，系统托盘图标显示为琥珀色。如需切换节点，先断开当前连接再重新选择，避免路由冲突。\n</li>\n<li>\n<strong>监控流量使用</strong><br>\n客户端主界面实时显示当月已用流量与剩余配额。流量耗尽后连接自动断开，次月配额恢复后可重新连接。团队版管理员可在控制台查看各成员用量明细。\n</li>\n</ol>\n</section>\n<section id=\"clients\" class=\"clients\">\n<h2>客户端</h2>\n<p class=\"intro-text\">客户端支持主流桌面与移动平台。请根据设备系统选择对应版本。</p>\n<ul class=\"client-list\">\n<li class=\"client-item\">\n<div class=\"client-name\">Windows 客户端</div>\n<div class=\"client-desc\">适用于 Windows 10 及以上版本。支持全局代理、分流规则及游戏模式。</div>\n<a href=\"#\" class=\"client-link\">下载地址待确认</a>\n</li>\n<li class=\"client-item\">\n<div class=\"client-name\">macOS 客户端</div>\n<div class=\"client-desc\">适用于 macOS 11 及以上版本。支持 Intel 与 Apple Silicon 架构。</div>\n<a href=\"#\" class=\"client-link\">下载地址待确认</a>\n</li>\n<li class=\"client-item\">\n<div class=\"client-name\">Android 客户端</div>\n<div class=\"client-desc\">适用于 Android 8 及以上版本。支持分应用代理与后台保活。</div>\n<a href=\"#\" class=\"client-link\">下载地址待确认</a>\n</li>\n<li class=\"client-item\">\n<div class=\"client-name\">iOS 客户端</div>\n<div class=\"client-desc\">适用于 iOS 14 及以上版本。需通过 TestFlight 或 App Store 安装。</div>\n<a href=\"#\" class=\"client-link\">下载地址待确认</a>\n</li>\n</ul>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"intro-text\">以下按订阅、连接、流量三个主题分组。如未涵盖你的问题，请提交工单。</p>\n<div class=\"faq-group\">\n<h3>订阅相关</h3>\n<div class=\"faq-item\">\n<div class=\"faq-q\">月付与年付的配额是否相同？</div>\n<div class=\"faq-a\">配额完全相同。年付仅为付款周期差异，不增加流量或设备数。选择年付后，流量按月重置，共计 12 个计费周期。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">能否在订阅中途升级层级？</div>\n<div class=\"faq-a\">支持升级。升级时按剩余天数折算差价。降级需等待当前周期结束后生效，不支持中途降级退款。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">团队版的管理员权限包含哪些功能？</div>\n<div class=\"faq-a\">管理员可在控制台添加或移除成员、分配流量配额、查看各成员连接日志及用量统计。最多支持 20 个子账户。</div>\n</div>\n</div>\n<div class=\"faq-group\">\n<h3>连接与节点</h3>\n<div class=\"faq-item\">\n<div class=\"faq-q\">连接后网速反而变慢，如何排查？</div>\n<div class=\"faq-a\">先检查本地网络延迟。其次尝试切换同地区其他节点。如问题持续，查看客户端日志中是否存在高丢包记录，并提交工单附上日志截图。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">同一账户在不同设备上同时连接会怎样？</div>\n<div class=\"faq-a\">设备并发数受订阅层级限制。超出限制时，新设备无法建立连接，旧连接不受影响。基础版上限 3 台，旗舰版 5 台，团队版 20 台。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">IPLC 专线节点与普通节点有何区别？</div>\n<div class=\"faq-a\">IPLC 节点采用国际专线链路，中间跳数更少，延迟波动更低，适合实时游戏与视频会议。仅在旗舰版及团队版中开放。</div>\n</div>\n</div>\n<div class=\"faq-group\">\n<h3>流量与计费</h3>\n<div class=\"faq-item\">\n<div class=\"faq-q\">流量配额用尽后是否可以购买额外流量？</div>\n<div class=\"faq-a\">当前不支持单独购买流量包。配额用尽后需等待次月重置，或升级至更高层级。升级后新配额即时生效。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">流量统计是否包含上行与下行？</div>\n<div class=\"faq-a\">是的。流量统计为双向总和，上行与下行均计入配额。建议关闭不必要的后台同步以节省配额。</div>\n</div>\n<div class=\"faq-item\">\n<div class=\"faq-q\">订阅到期后账户数据是否保留？</div>\n<div class=\"faq-a\">到期后账户保留 30 天。期间补费可恢复订阅。超过 30 天未续费，账户及关联数据将被清除，需重新注册。</div>\n</div>\n</div>\n</section>\n</main>\n<footer>\n<div>CC加速器 (CCcloud) · 本页面为产品说明文档，不构成交易要约。</div>\n<div>具体服务条款以订阅时控制台展示为准。</div>\n</footer>",
+          "hash": "da76be76138df9976565d2061c0893cfbf2fa88b796b7f41bd66048822479e96",
+          "seo": {
+            "title": "CC加速器(CCcloud) - 网络加速服务说明",
+            "keywords": "CC加速器, CCcloud, 网络加速, 游戏加速, 流媒体解锁",
+            "description": "CC加速器(CCcloud)提供网络加速服务。以下为订阅方案、使用说明及常见问题解答。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "7812",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vkckcqw.cn",
+    "host": "p-947af9936e.vkckcqw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2507a09620d65a2a9e5d96c4127d942c31a4786b36cc0613d032e3bcd510aea7",
+    "sitemap.xml": "1fa5cecaf12e1c1397dafd54cdb35b67ef746d2a505b60bc07ba08a82ee5f195",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c27963326b6466b384c9c359d7d477e958d9d1b54e29705581b20417c43d1e8b",
+    "robots.txt": "dd1386f551b2417f99c5fe440e8ee920a327ffe3ed4af289e6f4a90d042ea1da",
+    "6c85426a2c20f04f8e0525d071fdef4f.txt": "556a848ad390dc61204704fd88102012d2feeb5d542840a743d93e5a40a53509"
+  },
+  "revision": "72fa222adec8fc8ee26d2cb2aa294ba89509a0fcd48d1fad55ab3849364277c2"
+}
